@@ -26,8 +26,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
 
 
-        document.getElementById('signup-form').addEventListener('submit', async function(event) {
-            event.preventDefault(); // Prevent the form from submitting the default way
+        
 
 
         //signup
